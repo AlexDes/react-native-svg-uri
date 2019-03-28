@@ -54,7 +54,7 @@ const RADIALG_ATTS = CIRCLE_ATTS.concat(['id', 'gradientUnits']);
 const STOP_ATTS = ['offset'];
 const ELLIPSE_ATTS = ['cx', 'cy', 'rx', 'ry'];
 
-const TEXT_ATTS = ['fontFamily', 'fontSize', 'fontWeight', 'textAnchor']
+const TEXT_ATTS = ['fontFamily', 'fontSize', 'fontWeight', 'textAnchor'];
 
 const POLYGON_ATTS = ['points'];
 const POLYLINE_ATTS = ['points'];
